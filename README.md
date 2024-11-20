@@ -77,7 +77,7 @@ COOKFOOD/
 ### 安装依赖  
 1. 克隆项目到本地：
    ```bash
-   git clone https://github.com/your-repo/cookfood.git
+   git clone https://github.com/Pig-George/COOKFOOD.git
    ```
 
 ### 数据库准备  
